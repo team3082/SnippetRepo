@@ -64,7 +64,7 @@ public class ColorSensor {
 
             return null;
 
-            Log.println("no color detected")
+            Log.println("no color detected"); 
 
         }
 
