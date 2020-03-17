@@ -7,7 +7,7 @@ public class Pigeon {
 
 	public static double m_heading;
 	public static PigeonIMU m_pigeon;
-	public static int port = 1; 
+	public static final int port = 1; 
 
 	public static void init() {
 
