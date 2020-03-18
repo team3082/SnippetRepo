@@ -1,0 +1,5 @@
+YearSpecificFeatures
+    2020 
+        Lift 
+            1. includes implementation of solenoids 
+            2. and delays
